@@ -692,7 +692,7 @@ class Soldier(XiangqiGame):
 # print(game.make_move('e3', 'd5'))
 # game.print()
 # print(game.make_move('d9', 'd5')) #checkmate!
-print(game.get_game_state())
+
 
 
 
