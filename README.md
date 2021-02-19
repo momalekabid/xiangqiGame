@@ -1,6 +1,6 @@
 # xiangqiGame
 Fully functioning Xiangqi ("chinese chess") game that pits two players against each other. 
-Coded in Python, operating through the command line using traditional chess algebraic coordinates. 
+Operating through the command line using traditional chess algebraic coordinates. 
 XiangqiGame for playing a board game called xiangqi. 
 Please read the "Board", "Rules", and "Pieces" sections on the Wikipedia page.
 Perpetual check or chasing rules not applicable here.
